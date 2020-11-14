@@ -2,7 +2,8 @@ OVERVIEW
 
 Scientists-at-Play
 
-https://lichess.org/forum/team-scientists-at-play
+https://lichess.org/team/scientists-at-play
+
 
 # Bring scientists into the public's attention.
 # Prove that science follows the scientific principle.
