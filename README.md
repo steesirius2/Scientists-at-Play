@@ -10,7 +10,11 @@ https://lichess.org/team/scientists-at-play
 # NOT someone who knows long words.Is mad, hair like Einstein.
 # Struggling through crippling difficulty overcoming all the odd's.
 # Perfect timing after The Queens Gambit (Netflix)+ Lock Down
-# chess site membership up by 100,000's. Up to 20 teams can be created at this site.
+# chess site membership up by 100,000's.
+
+https://lichess.org/forum/general-chess-discussion/does-anybody-have-some-cpu-time-just-laying-around-not-being-used#1
+
+# Up to 20 teams can be created at this site.
 # its created by st33 others willing could help in setting up arenas for teams to play in.
 # this can also be streamed, OBS can stream 6 people and a Lichess board at the most.
 The idea is made for data gathering.
